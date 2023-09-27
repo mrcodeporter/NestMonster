@@ -1,0 +1,47 @@
+{
+    "directories": {
+        "python": [
+            ".venv",
+            "myapp",
+            "tests",
+            "config",
+            "data",
+            "docs",
+            "scripts",
+            "requirements",
+            "logs",
+            "assets",
+            "templates",
+            "migrations",
+            ".git",
+            "hooks",
+            "temp",
+            "examples",
+            "vendor",
+            "lib"
+        ],
+        "html": [
+            "css",
+            "js",
+            "images"
+        ]
+    },
+    "files": {
+        "python": {
+            "root": ["README.md"],
+            "myapp": ["__init__.py", "module1.py", "module2.py"],
+            "tests": ["__init__.py", "test_module1.py", "test_module2.py"],
+            "config": ["config.py"],
+            "data": ["data.csv"],
+            "docs": ["index.md"],
+            "scripts": ["script1.py", "script2.py"],
+            "requirements": ["dev.txt", "test.txt", "prod.txt"]
+        },
+        "html": {
+            "css": ["styles.css"],
+            "js": ["script.js"],
+            "images": []
+        }
+    }
+ }
+ 
